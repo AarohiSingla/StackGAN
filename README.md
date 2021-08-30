@@ -2,6 +2,8 @@
 
 # Synthesizing high-quality images from text descriptions
 
+To understand the code, Check video: https://youtu.be/ye6pYwBQQL4
+
 ### Create 3 folders (test, weights,results_stage2) in your current working directory.
 1. <b>weights </b> (your model weights will be saved here)
 2. <b>test </b> (generated images from our stage I StackGAN)
